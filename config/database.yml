@@ -12,7 +12,7 @@ default: &default
 development: &development
   <<: *default
   database: home_finder_development
-  username: wlapp_db_admin
+  username: wlapp_db_admin2
   password: wlapp-db-pas
   host: localhost
 
